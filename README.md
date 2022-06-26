@@ -10,7 +10,7 @@ I am currently in my junior year at Babcock University. Armed with over two year
 * ✉️  You can contact me at [somtofrancis5@gmail.com](mailto:somtofrancis5@gmail.com)
 * 🧠  I'm learning JavaScript Frameworks and Libraries such as Node.js and React.
 * 🤝  I'm open to collaborating on App development, Web design/dev and Machine Learning projects.
-* ⚡  Here's my Linkedin https://www.linkein.com/in/somtochukwu-francis-b8a236239
+* ⚡  Here's my Linkedin https://www.linkedin.com/in/somtochukwu-francis-b8a236239
 
 ### Skills
 
