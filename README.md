@@ -3,7 +3,7 @@
 
 <br/>  
 
-<details><summary> I speak... </summary>
+<details><summary> I Speak... </summary>
 
 ### Languages  
 <div align="center">  
@@ -31,6 +31,6 @@
 
 <br/>  
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomtoJF&hide_border=true&layout=compact" align="center" /></div></details>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomtoJF&hide_border=true&layout=compact" align="center" /></div>
 <br />
 
